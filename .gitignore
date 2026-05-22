@@ -1,0 +1,22 @@
+# Data (regenerated at runtime)
+data/
+
+# Saved model weights
+models/
+
+# Plot outputs
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
